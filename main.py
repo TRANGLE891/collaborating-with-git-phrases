@@ -1,5 +1,5 @@
 def greet():
-    print("Hello, Seattle!")
+    print("Hello, Miami!")
     
 def chat():
     print("How's it going?")
