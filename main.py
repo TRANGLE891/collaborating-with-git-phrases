@@ -1,8 +1,8 @@
 def greet():
-    print("Hello, World!")
+    print("Hello, Seattle!")
     
 def chat():
-    print("How are you?")
+    print("How's it going?")
     
 def farewell():
-    print("Goodbye, World!")
+    print("Goodbye, Seattle!")
